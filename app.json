@@ -21,6 +21,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "CodeWithMahir.ASHARAY_MUBASHSHARA",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
