@@ -1,4 +1,4 @@
-# PlanetApp
+# 10jannatisahabi
 
 * Clone this repository and command npm install
 * After installation, command expo start (need to install expo on your machine)
