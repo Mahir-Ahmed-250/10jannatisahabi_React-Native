@@ -6,6 +6,6 @@
 * BOOM!!
 
 ## Eas Build
-* https://expo.dev/accounts/mahir250/projects/10jannatisahabi/builds/219ef8bc-8529-4197-9960-932aec32c12c
-
+* https://expo.dev/@mahir_developer/10jannatisahabi <br/>
+Download Expo Go From Play Store & Paste or scan the qr of this link for visit Mobile App Version
 ![SCREENSHOT1!](1.jpg)
